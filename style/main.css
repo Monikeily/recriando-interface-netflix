@@ -46,9 +46,8 @@ header nav a:hover{
 /*filme princiapl*/
 .filme-principal{
     font-size: 25px;    
-    background: url(/recriando-interface-netflix/img/alertavermelho.png);
+    background:url(/recriando-interface-netflix/img/Capa3.jpg);
     
-
     height:900px;
     background-size:cover;
 
@@ -61,8 +60,8 @@ header nav a:hover{
 
 
 .filme-principal .descricao{
-    margin-top: 156px;
-    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
 }
 
 .filme-principal .titulo{
